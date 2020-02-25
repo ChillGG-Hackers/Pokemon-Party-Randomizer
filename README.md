@@ -27,3 +27,8 @@ Once you have a pokemon party you can start the application once your save has b
 
 Contact:
 - Discord: Vetyst#0001
+
+## Other Randomizers
+There is currently one other party randomizer that I know of. It has been developed by another Viewer of ant's streams. 
+
+* [Pokemon Emerald](https://github.com/googleben/EmeraldPartyRandomizer) By GoogleBen
